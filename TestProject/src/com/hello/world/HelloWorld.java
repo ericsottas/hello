@@ -1,7 +1,7 @@
 package com.hello.world;
 
 /**
- * bla bli blabli blu blé
+ * bla bli blabli
  */
 
 public class HelloWorld {

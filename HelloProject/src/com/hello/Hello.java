@@ -2,7 +2,7 @@
 package com.hello;
 
 /**
- * test 1
+ * test 2
  */
 
 public class Hello {

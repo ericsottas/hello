@@ -2,7 +2,7 @@
 package com.hello;
 
 /**
- * test 2 master with branch 1 hotfix
+ * this is release 2.1
  */
 
 public class Hello {
